@@ -12,7 +12,7 @@ class Javahack{
         if(W<=500){
             System.out.println("the water bill is 100 RUPEES");
         }
-         if (W>500){
+         else{
             System.out.println("the water bill is 200 RUPEES");
         }
     }
